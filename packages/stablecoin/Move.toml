@@ -12,11 +12,10 @@ subdir = "aptos-move/framework/aptos-framework"
 git = "https://github.com/rohithkumar0369/stablecoin-aptos.git"
 subdir = "packages/aptos_extensions"
 rev = "master"
-addr_subst = { "deployer" = "deployer" }
 
 [addresses]
-aptos_extensions = "0x98bce69c31ee2cf91ac50a3f38db7b422e3df7cdde9fe672ee1d03538a6aeae0"
-stablecoin = "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b"
+aptos_extensions = "_"
+stablecoin = "_"
 deployer = "_"
 
 [dev-addresses]

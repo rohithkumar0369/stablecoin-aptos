@@ -16,7 +16,7 @@ rev = "master"
 [addresses]
 aptos_extensions = "_"
 stablecoin = "_"
-deployer = "_"
+cctp_deployer = "_"
 
 [dev-addresses]
 stablecoin = "0x94ae22c4ecec81b458095a7ae2a5de2ac81d2bff9c8633e029194424e422db3b"

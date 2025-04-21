@@ -5,7 +5,7 @@ upgrade_policy = "immutable"
 
 [addresses]
 aptos_extensions = "_"
-deployer = "_"
+cctp_deployer = "_"
 
 [dev-addresses]
 aptos_extensions = "0x87899b097b766da6838867c873185c90d7d5661ebfe2ce0e985b53a2b0ed9e28"
